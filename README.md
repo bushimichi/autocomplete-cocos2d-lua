@@ -1,1 +1,1 @@
-# autocomplete-cocos2d-lua
+# autocomplete-cocos2dx-lua
